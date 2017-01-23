@@ -1,0 +1,8 @@
+----------------------------------------------------------------
+2017-01-23 19:30:48.034 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-0159-cccf-31c6-000005a7fd90 
+on database directory memory:D:\Personal\Docs\JobFinding\Jumia\Task\test-jpa  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Amr/.m2/repository/org/apache/derby/derby/10.6.2.1/derby-10.6.2.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+Database Class Loader started - derby.database.classpath=''
