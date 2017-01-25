@@ -20,10 +20,9 @@ public class Main {
         System.out.println("------------------------");
         System.out.println("|Jumia Statistics Tools|");
         System.out.println("------------------------\n");
-
-//        args = new String[]{"-list","2016-01-01 00:00:00","2016-01-01 00:00:00",
-//                            "2016-01-01 00:00:00","2016-04-01 00:00:00",
-//                            "2016-04-01 00:00:00","2017-01-01 00:00:00"};
+   
+//        args = new String[]{"2016-01-01 00:00:00","2016-01-01 00:00:00","-list",
+//                            "1-3","7-12"};
         
         if(args.length<2){ //  Invalid Input
             System.out.println("Please enter a valid Interval(s) using one of the below formats");
